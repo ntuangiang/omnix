@@ -1,0 +1,5 @@
+{
+  "name": "Nexus Web & Logic Builder",
+  "description": "A high-performance visual builder for Angular/NestJS applications. Features drag-and-drop UI construction, visual workflow orchestration, and Gemini-powered AI assistance for automated layout and logic generation.",
+  "requestFramePermissions": []
+}
